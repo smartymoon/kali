@@ -1,0 +1,259 @@
+/* header author:wanyue*/
+#logo,#partnerlogo{
+    margin-top:10px;
+}
+
+#partnerlogo{
+    float:right;
+}
+.daohang{
+    list-style:none;
+}
+.daohang ul{
+    list-style:none;
+    z-index:1;
+}
+.daohang{
+    margin:0px;
+    padding:0px;
+}
+.daohang > li{
+    float: left;
+    width: 200px;
+    height: 40px;
+    font-size: 15px;
+    font-weight: bold;
+}
+.daohang li:hover > ul{
+    display: block;
+}
+.daohang31{
+    display: none;
+    position: absolute;
+    top: 0px;
+    left: 200px;
+    width: 200px;
+}.daohang32{
+    display: none;
+    position: absolute;
+    top: 80px;
+    left: 200px;
+    width: 200px;
+}
+.daohang33{
+    display: none;
+    position: absolute;
+    top: 120px;
+    left: 200px;
+    width: 200px;
+}
+.daohang34{
+    display: none;
+    position: absolute;
+    top: 160px;
+    left: 200px;
+    width: 200px;
+}
+.daohang351{
+    display: none;
+    position: absolute;
+    top: 40px;
+    left: 200px;
+    width: 200px;
+}
+.daohang352{
+    display: none;
+    position: absolute;
+    top: 40px;
+    left: 400px;
+    width: 200px;
+}
+.daohang36{
+    display: none;
+    position: absolute;
+    top: 200px;
+    left: 200px;
+    width: 200px;
+}
+.daohang3{
+    display: none;
+    position: absolute;
+    top: 40px;
+    left: 175px;
+    width: 200px;
+}
+.daohang4{
+    display: none;
+    position: absolute;
+    top: 40px;
+    left: 375px;
+    width: 200px;
+}
+.daohang3 li{
+    width: 200px;
+    background-color: #F0F0F0;
+}
+.daohang4 li{
+    width: 200px;
+    background-color: #F0F0F0;
+}
+.header li a{
+    text-decoration: none;
+    display: block;
+    color: #fff;
+    line-height: 40px;
+    text-align: center;
+}
+
+.header li ul li a{
+    margin-left:15px;
+    text-decoration: none;
+    display: block;
+    color: #00a2ca;
+    line-height: 40px;
+    text-align: left;
+}
+
+.header li ul a span{
+    position:absolute;
+    top:12px;
+    right:10px;
+}
+
+.header li ul a{
+    position:relative;
+}
+
+.header li:hover,
+.header li:hover >a,
+.header a:hover{
+    color:#fff! important;
+    text-decoration: none;
+    background-color: #008EB7;
+}
+ck-ecs {
+    background-image: url("https://img.alicdn.com/tps/TB1Z2RbMXXXXXbwXpXXXXXXXXXX-2800-1100.jpg");
+    background-size: 1400px;
+    background-position: 50% 0%;
+    background-repeat: no-repeat;
+}
+.back-ess {
+    background-image: url("https://img.alicdn.com/tps/TB13mkELVXXXXbVXpXXXXXXXXXX-2800-1100.jpg");
+    background-size: 1400px;
+    background-position: 50% 0%;
+    background-repeat: no-repeat;
+}
+.back-hpc {
+    background-image: url("https://img.alicdn.com/tps/TB1jFczLVXXXXbdXFXXXXXXXXXX-2800-1100.jpg");
+    background-size: 1400px;
+    background-position: 50% 0%;
+    background-repeat: no-repeat;
+}
+.back-rds {
+    background-image: url("https://img.alicdn.com/tps/TB16vUmLVXXXXceaXXXXXXXXXXX-2800-1100.jpg");
+    background-size: 1400px;
+    background-position: 50% 0%;
+    background-repeat: no-repeat;
+}
+.back-oss {
+    background-image: url("https://img.alicdn.com/tps/TB1UJEtLVXXXXbRXVXXXXXXXXXX-2800-1100.jpg");
+    background-size: 1400px;
+    background-position: 50% 0%;
+    background-repeat: no-repeat;
+}
+.back-disk {
+    background-image: url("https://img.alicdn.com/tps/TB1GHQGLVXXXXa1XpXXXXXXXXXX-2800-1100.jpg");
+    background-size: 1400px;
+    background-position: 50% 0%;
+    background-repeat: no-repeat;
+}
+.back-cdn {
+    background-image: url("https://img.alicdn.com/tps/TB1cT0LMXXXXXataXXXXXXXXXXX-2800-1100.jpg");
+    background-size: 1400px;
+    background-position: 50% 0%;
+    background-repeat: no-repeat;
+}
+.back-vpc {
+    background-image: url("https://img.alicdn.com/tps/TB1bRAmLVXXXXb3aXXXXXXXXXXX-2800-1100.jpg");
+    background-size: 1400px;
+    background-position: 50% 0%;
+    background-repeat: no-repeat;
+}
+.back-slb {
+    background-image: url("https://img.alicdn.com/tps/TB1hnFTMXXXXXa7XVXXXXXXXXXX-2800-1100.jpg");
+    background-size: 1400px;
+    background-position: 50% 0%;
+    background-repeat: no-repeat;
+}
+.back-aegis {
+    background-image: url("https://img.alicdn.com/tps/TB15BZpLVXXXXX3aXXXXXXXXXXX-2800-1100.jpg");
+    background-size: 1400px;
+    background-position: 50% 0%;
+    background-repeat: no-repeat;
+}
+.back-sas {
+    background-image: url("https://img.alicdn.com/tps/TB1IvIJLVXXXXcmXXXXXXXXXXXX-2800-1100.jpg");
+    background-size: 1400px;
+    background-position: 50% 0%;
+    background-repeat: no-repeat;
+}
+.back-waf {
+    background-image: url("https://img.alicdn.com/tps/TB1vr4QMXXXXXXrXVXXXXXXXXXX-2800-1100.jpg");
+    background-size: 1400px;
+    background-position: 50% 0%;
+    background-repeat: no-repeat;
+}
+.back-ddos {
+    background-image: url("https://img.alicdn.com/tps/TB1XNUCLVXXXXcOXpXXXXXXXXXX-2800-1100.jpg");
+    background-size: 1400px;
+    background-position: 50% 0%;
+    background-repeat: no-repeat;
+}
+.back-ddosbasic {
+    background-image: url("https://img.alicdn.com/tps/TB1bdwMLVXXXXa5XXXXXXXXXXXX-2800-1100.jpg");
+    background-size: 1400px;
+    background-position: 50% 0%;
+    background-repeat: no-repeat;
+}
+.back-antifraud {
+    background-image: url("https://img.alicdn.com/tps/TB1_jwDLVXXXXcpXpXXXXXXXXXX-2800-1100.jpg");
+    background-size: 1400px;
+    background-position: 50% 0%;
+    background-repeat: no-repeat;
+}
+.back-lvwang {
+    background-image: url("https://img.alicdn.com/tps/TB12_ZALVXXXXXTXFXXXXXXXXXX-2800-1100.jpg");
+    background-size: 1400px;
+    background-position: 50% 0%;
+    background-repeat: no-repeat;
+}
+.back-cdi {
+    background-image: url("https://img.alicdn.com/tps/TB1JfEyLVXXXXcMXFXXXXXXXXXX-2800-1100.jpg");
+    background-size: 1400px;
+    background-position: 50% 0%;
+    background-repeat: no-repeat;
+}
+.back-hsm {
+    background-image: url("https://img.alicdn.com/tps/TB1QegKLVXXXXb6XXXXXXXXXXXX-2800-1100.jpg");
+    background-size: 1400px;
+    background-position: 50% 0%;
+    background-repeat: no-repeat;
+}
+.back-cas {
+    background-image: url("https://img.alicdn.com/tps/TB1sfvIMXXXXXcgXXXXXXXXXXXX-2800-1100.jpg");
+    background-size: 1400px;
+    background-position: 50% 0%;
+    background-repeat: no-repeat;
+}
+.back-dsi {
+    background-image: url("https://img.alicdn.com/tps/TB1pDcvLVXXXXamXVXXXXXXXXXX-2800-1100.jpg");
+    background-size: 1400px;
+    background-position: 50% 0%;
+    background-repeat: no-repeat;
+}
+.back-jiankong {
+    background-image: url("https://img.alicdn.com/tps/TB1HqkxLVXXXXXeXVXXXXXXXXXX-2800-1100.jpg");
+    background-size: 1400px;
+    background-position: 50% 0%;
+    background-repeat: no-repeat;
+}
