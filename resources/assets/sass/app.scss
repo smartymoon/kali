@@ -1,4 +1,12 @@
 /* home*/
+
+.verticle-mode {
+    writing-mode: tb-rl;
+    -webkit-writing-mode: vertical-rl;      
+    writing-mode: vertical-rl;
+    *writing-mode: tb-rl;
+
+}
 .home-headers{
     border-bottom: 1px solid #eee;
     height: 20px;
@@ -124,12 +132,6 @@ th{
     text-align:center;
     border:none!important;
 }
-.back-ecs{
-    background-image: url("https://img.alicdn.com/tps/TB1Z2RbMXXXXXbwXpXXXXXXXXXX-2800-1100.jpg");
-    background-size: 1400px;
-    background-position: 50% 0%;
-    background-repeat: no-repeat;
-}
 .introduce{
     h1{
         font-size:50px;
@@ -143,6 +145,34 @@ th{
     height:376px;
     padding:68px 0 50px;
 }
+
+.ali_function_header{
+    height:15px;
+    border-bottom:1px solid #eee;
+    margin-bottom:50px;
+    h3{
+        background:#fff;
+        width:220px;
+    } 
+}
+
+.ali_function_body{
+    >div{
+        display:inline-block;
+    }
+    .verticle-mode{
+         float:left;
+         background:#f5f5f5;
+         color:#999;
+         letter-spacing:15px;
+         padding-left:15px;
+         padding-right:15px;
+         margin-right:20px;
+         text-align:center;
+    }
+    margin-bottom:40px;
+}
+
 /*  footer author:moon*/
 #carousel-example-generic img{
     width:100%;

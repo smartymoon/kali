@@ -73,4 +73,61 @@
         </table>
 </div>
 </section>
+<section class="ali_function">
+    <div class="container">
+            <div class="ali_function_header">
+                <h3>云服务器 ECS 功能</h3>
+            </div>
+            <div class="ali_function_body">
+                <div class="verticle-mode">&nbsp;计算</div>
+                <div>
+                        content<br>
+                        content<br>
+                        content<br>
+                        content<br>
+                        content<br>
+                        content<br>
+                        content<br>
+                        content<br>
+                        content<br>
+                        content<br>
+                        content<br>
+                        content<br>
+                        content<br>
+                        content<br>
+                        content<br>
+                        content<br>
+                </div>
+            </div>
+            <div class="ali_function_body">
+                <div class="verticle-mode">&nbsp;计算</div>
+                <div>
+                        content<br>
+                        content<br>
+                        content<br>
+                        content<br>
+                        content<br>
+                        content<br>
+                        content<br>
+                        content<br>
+                        content<br>
+                        content<br>
+                        content<br>
+                        content<br>
+                        content<br>
+                        content<br>
+                        content<br>
+                        content<br>
+                        content<br>
+                        content<br>
+                        content<br>
+                        content<br>
+                        content<br>
+                        content<br>
+                        content<br>
+                        content<br>
+                </div>
+            </div>
+    </div>
+</section>
 @endsection

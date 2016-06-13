@@ -18,6 +18,6 @@ elixir(function(mix) {
         'jquery/dist/jquery.min.js',
         'bootstrap/dist/js/bootstrap.min.js',
     ],'public/js/jquery_and_boot.min.js',Bower);
-    mix.scripts(['jquery_center.js']);
+    mix.scripts('product.js','public/js/all.js');
     //mix.styles(['bootstrap/dist/css/bootstrap.min.css'],'public/css/boot.css',Bower);
 });

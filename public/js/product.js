@@ -4,4 +4,4 @@ $(function(){
     })
 })
 
-//# sourceMappingURL=all.js.map
+//# sourceMappingURL=product.js.map

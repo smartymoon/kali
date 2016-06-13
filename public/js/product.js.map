@@ -1,0 +1,1 @@
+{"version":3,"sources":["product.js"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA","file":"product.js","sourcesContent":["$(function(){\n    $('.verticle-mode').each(function(){\n        $(this).height($(this).next().height());\n    })\n})\n"],"sourceRoot":"/source/"}

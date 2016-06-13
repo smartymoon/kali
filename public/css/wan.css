@@ -131,7 +131,7 @@
     text-decoration: none;
     background-color: #008EB7;
 }
-ck-ecs {
+.back-ecs {
     background-image: url("https://img.alicdn.com/tps/TB1Z2RbMXXXXXbwXpXXXXXXXXXX-2800-1100.jpg");
     background-size: 1400px;
     background-position: 50% 0%;
@@ -257,3 +257,4 @@ ck-ecs {
     background-position: 50% 0%;
     background-repeat: no-repeat;
 }
+
