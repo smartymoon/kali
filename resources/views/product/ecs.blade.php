@@ -176,21 +176,37 @@ IO 최적화 구성은 높은 IO 성능을 보장하며, 인프라 레벨의 SW�
             </div>
             <div class="row ali_function_body">
                 <div class="col-md-1">
-                    <div class="verticle-mode">&nbsp;네트워크</div>
+                    <div class="verticle-mode">&nbsp;보안</div>
                 </div>
                 <div class="col-md-11">
-                    <p>서로 다른 연결 시나리오에 사용할 수 있는 <strong>Public </strong>및 <strong>Private IP</strong>를 제공합니다.</p>
+                    <p>클라우드 실드, 네트워크 보안 등 기본적인 보안 기능을 무료로 제공합니다.</p>
                     <ul>
-                        <li><strong>Public IP</strong> : 인스턴스 구매 시 0M 이상의 bandwidth를 선택할 경우 Public IP를 제공합니다.</li>
-                        <li><strong>Private IP </strong>:ECS 인스턴스 간의 내부 통신 용도로 사용되며, Alicloud와 외부 서비스간의 연동에도 사용할 수 있습니다. SLB, OSS, RDS 등에 사용되며, 동일 리전 내에서는 무료로 제공됩니다.</li>
+                        <li><strong>DDoS 방어 </strong>: 최대 5 GB의 무료 DDoS 방어를 제공합니다. 예를 들어 SYN flood, UDP flood, ICMP flood, ACK flood 등 일반적인 DDoS 공격을 방어할 수 있습니다.</li>
+                        <li>서버 보안 : Anti Password Cracking, 트로이 목마 제거, 중복 로그인에 대한 알림, 보완 취약점 제거 등의 기능이 제공됩니다. 더 높은 수준의 보안이 필요할 경우 추가적인서비스를 통해 DDoS 방어, Server Security, Network Security 등의 서비스를 이용할 수 있습니다.</li>
                     </ul>
-                    <p><strong>Private Network </strong>및 <strong>Classic Network </strong>등 다양한 네트워크 구성을 지원합니다.</p>
+                    <p>클라우드 모니터링과 실시간 조기 경보 등도 무료로 제공됩니다.</p>
                     <ul>
-                        <li><strong>Classic Network </strong>: IP Address는 Alicloud에서 관리하며 간단하고 편리하게 사용할 수 있습니다. 사용자는 보안 그룹 설정을 통해 단일 또는 복수의 클라우드 서버 네트워크 접근 통제를 통하여 보안 수준을 설정할 수 있습니다.</li>
-                        <li><strong>Private Network </strong>: 사용자 별로 격리된 네트워크 환경을 구성하며, 구성된 네트워크에 대한 모든 권한 및 보안 그룹 설정을 활용하여 접근 통제를 할 수 있습니다. IP 주소 범위, 서브넷, 게이트웨이 등을 사용자 필요에 따라 지정할 수 있습니다. 또한 전용선, VPN 등의 연결방식을 통해서 VPC를 기존의 데이터센터와 연동하여 운영할 수 있습니다.</li>
+                        <li>사이트 모니터링 : HTTP, Ping, DNS, TCP, UDP, SMTP, POP, FTP 등의 서비스에 대해 가용성과 응답 시간 측면에서 모니터링 및 알람 서비스를 제공합니다.</li>
+                        <li>클라우드 모니터링 : 클라우드 서버에 대한 모니터링 서비스를 제공하며, 사용자 정의 모니터링 서비스도 사용할 수 있습니다.</li>
+                        <li>알람 및 연락처 관리 : 알람 및 연락처에 대한 통합적인 관리 서비스(이메일, SMS 등)를 제공합니다.</li>
                     </ul>
                 </div>
             </div>
+            <div class="row ali_function_body">
+                <div class="col-md-1">
+                    <div class="verticle-mode">&nbsp;미러링</div>
+                </div>
+                <div class="col-md-11">
+                    <h4>편리한 미러링 기능으로 신속한 시스템 복제를 지원합니다.</h4>
+                    <p>미러링을 통해 빠른 시간 내에 인스턴스를 생성하고 배포할 수 있습니다.</p>
+                    <ul>
+                        <li><strong>Public Mirror</strong> : Alicloud에서 공식적으로 제공하는 공공 이미지입니다. 예를 들어 window, Linux 운영 체제의 여러 배포 버전을 제공합니다.</li>
+                        <li><strong>User Defined Mirror </strong>: 필요에 따라 사용자 정의 미러를 다른 사용자와 공유할 수 있습니다. 공유를 받은 사용자는 공유된 미러로 ECS 인스턴스를 생성하고 시스템 디스크를 변경할 수 있습니다.</li>
+                    </ul>
+                </div>
+            </div>
+
+
     </div>
 </section>
 @endsection
