@@ -146,6 +146,11 @@ th{
     padding:68px 0 50px;
 }
 
+.ali_table tr td:first-child{
+        vertical-align:middle!important;
+        text-align:center;
+}
+
 .ali_function_header{
     height:15px;
     border-bottom:1px solid #eee;

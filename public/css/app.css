@@ -113,6 +113,10 @@ th {
     margin-top: 25px;
     width: 700px; }
 
+.ali_table tr td:first-child {
+  vertical-align: middle !important;
+  text-align: center; }
+
 .ali_function_header {
   height: 15px;
   border-bottom: 1px solid #eee;

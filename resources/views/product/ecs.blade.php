@@ -80,7 +80,7 @@
 <section class="ali_function">
     <div class="container">
             <div class="ali_function_header">
-                <h3>云服务器 ECS 功能</h3>
+                <h3>주요 특징</h3>
             </div>
             <div class="row ali_function_body">
                 <div class="col-md-1">
