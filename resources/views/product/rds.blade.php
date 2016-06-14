@@ -7,7 +7,7 @@
             <div class="row">
                 <div class="col-md-12">
                         <div class="introduce back-rds">
-                            <h1><i class="product-icons-64 product-icons-rds"></i>RDS</h1>
+                            <h1><i class="product-icons-64 product-icons-rds"></i> RDS</h1>
                             <p>
                                 RDS(Relational Database Service)는 안정적이며, 신뢰할 수 있는 클라우드 관계형 데이터 베이스 서비스입니다. AliCloud의 분산시스템과 고성능 스토리지를 기반으로 MySQL, SQL Server, PostgreSQL 및 PPAS Engine을 지원합니다. 또한 재해 복구, 백업, 복구, 모니터링, 마이그레이션을 이행하기 위한 해결방안을 제공하며, DBMS 시스템 운영 및 유지를 위한 고민을 해결할 수 있습니다.
                             </p>
@@ -42,7 +42,7 @@
         <br><br>
         <table class="table table-bordered">
                 <tr>
-                    <td style="padding:28px;vertical-align: middle;"><img src="https://img.alicdn.com/tps/TB1QMVOKXXXXXbwXFXXXXXXXXXX-32-32.png" width="18" height="18" style="">신뢰성</td>
+                    <td style="padding:28px;vertical-align: middle;"><img src="https://img.alicdn.com/tps/TB1QMVOKXXXXXbwXFXXXXXXXXXX-32-32.png" width="18" height="18" style=""> 신뢰성</td>
                     <td style="padding-top:20px">
                         <ul>
                             <li>99.9999% 데이터 신뢰성 보장</li>
@@ -51,7 +51,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td style="padding:28px;vertical-align: middle;"><img src="https://img.alicdn.com/tps/TB1oGFWKXXXXXbxXpXXXXXXXXXX-32-32.png" width="18" height="18" style="">보안</td>
+                    <td style="padding:28px;vertical-align: middle;"><img src="https://img.alicdn.com/tps/TB1oGFWKXXXXXbxXpXXXXXXXXXX-32-32.png" width="18" height="18" style=""> 보안</td>
                     <td style="padding-top:20px">
                         <ul>
                             <li>MySQL, PostgreSQL, PPAS Engine 등의 오픈 데이터베이스 원본 유지 및 보호 가능</li>
@@ -61,7 +61,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td style="padding:28px;vertical-align: middle;"><img src="https://img.alicdn.com/tps/TB1bGuyKXXXXXc6XFXXXXXXXXXX-32-32.png" width="18" height="18" style="">가용성</td>
+                    <td style="padding:28px;vertical-align: middle;"><img src="https://img.alicdn.com/tps/TB1bGuyKXXXXXc6XFXXXXXXXXXX-32-32.png" width="18" height="18" style=""> 가용성</td>
                     <td style="padding-top:20px">
                         <ul>
                             <li>RDS는 고가용성을 위해 분산구조를 지원하며, 재해복구를 대비하여 멀티리전(Multi-Region) 지원함</li>
@@ -70,7 +70,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td style="padding:28px;vertical-align: middle;"><img src="https://img.alicdn.com/tps/TB1jz0_KXXXXXX8XXXXXXXXXXXX-32-32.png" width="18" height="18" style="">경제성</td>
+                    <td style="padding:28px;vertical-align: middle;"><img src="https://img.alicdn.com/tps/TB1jz0_KXXXXXX8XXXXXXXXXXXX-32-32.png" width="18" height="18" style=""> 경제성</td>
                     <td style="padding-top:20px">
                         <ul>
                             <li>자원 임계치 경보 및 성능 진단 등을 통해서 운영의 편의성과 리포팅 기능을 제공</li>
@@ -79,7 +79,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td style="padding:28px;vertical-align: middle;"><img src="https://img.alicdn.com/tps/TB1dOXJKXXXXXXvXVXXXXXXXXXX-32-32.png" width="18" height="18" style="">확장성</td>
+                    <td style="padding:28px;vertical-align: middle;"><img src="https://img.alicdn.com/tps/TB1dOXJKXXXXXXvXVXXXXXXXXXX-32-32.png" width="18" height="18" style=""> 확장성</td>
                     <td style="padding-top:20px">
                         <ul>
                             <li>RDS의 확장 및 성능업그레이드가 탄력적으로 가능함으로 효율적인 자원 사용 가능</li>
