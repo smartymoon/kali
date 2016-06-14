@@ -22,8 +22,6 @@
         </div>
         <div class="container">
         <h4>AliCloud의 RDS는 네 개의 데이터베이스 엔진을 지원합니다(PostgreSQL, PPAS 는 준비 중).</h4>
-        <br>
-        <br>
         <div class="col-md-3">
             <img src="https://img.alicdn.com/tps/TB1DhFdKpXXXXcOXXXXXXXXXXXX-350-160.png" alt="" width="175">
         </div>
@@ -39,7 +37,6 @@
         </div>
         <div class="container" style="margin-top:30px">
         <h4>자체 내장 데이터베이스와 비교했을 때보다 더 많은 자동화된 서비스를 제공합니다.</h4>
-        <br><br>
         <table class="table table-bordered">
                 <tr>
                     <td style="padding:28px;vertical-align: middle;"><img src="https://img.alicdn.com/tps/TB1QMVOKXXXXXbwXFXXXXXXXXXX-32-32.png" width="18" height="18" style=""> 신뢰성</td>
@@ -110,13 +107,11 @@
                     <div class="verticle-mode">&nbsp;확장성</div>
                 </div>
                 <div class="col-md-11">
-                    <br><br>
                     <h4>스케일링(Scale Up/Down)을 통해 100% 자원활용을 실현합니다.</h4>
                     <ul>
                         <li>업그레이드가 필요한 자원의 메모리와 디스크 공간을 필요에 따라 Scale-up 할 수 있음(디스크 당 최대 20,000 IOPS, 2TB 지원)</li>
                         <li>RDS for MySQL 은 Read-Only 마운트와 Search 기능을 확장할 수 있으며, 독립적인 Read-Only Link Address가 존재함</li>
                     </ul>
-                    <br><br>
                 </div>
             </div>
             <div class="row ali_function_body">

@@ -131,15 +131,12 @@
                     <div class="verticle-mode">&nbsp;부가서비스</div>
                 </div>
                 <div class="col-md-11">
-                <br><br>
                     <h4>빠른 데이터 처리를 통해 강력한 파일 변환 기능을 제공합니다.</h4>
                     <ul>
                         <li>각종 이미지 포맷 변환, 기타 이미지 포맷, 미리보기, 워터마크 등의 작업 지원</li>
                         <li>오디오/비디오 트랜스코딩 : 고품질, 고속의 병렬 오디오/비디오 데이터 트랜스코딩 지원</li>
                         <li>CDN 연동시 안정성 및 Bandwidth 설정을 클릭 한번으로 구성함</li>
                     </ul>
-                    <br>
-                    
                 </div>
             </div>
             <div class="row ali_function_body">
@@ -147,7 +144,6 @@
                     <div class="verticle-mode">&nbsp;적용분야</div>
                 </div>
                 <div class="col-md-11">
-                <br><br>
                     <h4>산업솔루션 및 제품 패키지 적용</h4>
                     <ul>
                         <li>보안 감시, 온라인 주문, 대화형 TV, 영상 처리 및 기타 산업분야에 적용</li>
