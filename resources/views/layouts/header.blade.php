@@ -1,5 +1,5 @@
 <div class="container" style="min-height:70px; line-height:70px;">
-        <img id="logo" src="{{asset('image/common/logo.jpg')}}" alt="">
+        <a href="/"><img id="logo" src="{{asset('image/common/logo.jpg')}}" alt=""></a>
         <img id="partnerlogo" src="{{asset('image/common/partnerlogo.jpg')}}" alt="">
         <div class="clearfix"></div>
 </div>

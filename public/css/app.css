@@ -87,12 +87,17 @@
   .home-case-items div {
     text-align: center; }
 
+.home-renzheng div:last-child {
+  border: none; }
+
 .home-renzheng img {
+  float: left;
   display: block;
-  margin: 10px auto; }
+  margin: 10px 10px; }
 
 .home-renzheng p {
-  text-align: center; }
+  text-align: left;
+  margin-top: 50px; }
 
 /* product  */
 thead {
@@ -141,11 +146,12 @@ th {
   .ali_function_body h4 {
     font-weight: bold; }
 
-/*  footer author:moon*/
+/* slider */
 #carousel-example-generic img {
   width: 100%;
-  height: 300px; }
+  height: 265px; }
 
+/*  footer author:moon*/
 .footer {
   margin-top: 40px;
   padding: 20px 0;
