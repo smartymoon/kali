@@ -17,8 +17,8 @@
         </div>
 </section>
 <section class="ali_table">
-        <div class="container" style="padding-left:0px;height: 33px;margin-top: 30px;margin-bottom: 50px;border-bottom: solid 1px #ddd;">
-            <h1 style="font-size: 24px;background-color: #fff;display: inline-block;padding-right: 10px;">상품 개요</h1>
+        <div class="container hr">
+            <h1>상품 개요</h1>
         </div>
         <div class="container"> 
         <table class="table table-bordered">
@@ -66,8 +66,8 @@
                 </tr>
         </table>
         </div>
-        <div class="container" style="padding-left:0px;height: 33px;margin-top: 30px;margin-bottom: 50px;border-bottom: solid 1px #ddd;">
-            <h1 style="font-size: 24px;background-color: #fff;display: inline-block;padding-right: 10px;">상품 개요</h1>
+        <div class="container hr">
+            <h1>상품 개요</h1>
         </div>
         <div class="container">
             <div class="row ali_function_body">
