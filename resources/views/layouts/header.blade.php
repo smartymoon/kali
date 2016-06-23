@@ -8,9 +8,9 @@
         <div class="row header">
             <div class="col-md-12">
                 <ul class="daohang">
-                    <li><a href="{{url('/')}}">阿里云介绍</a>
+                    <li><a href="{{url('/')}}">AliCloud 소개</a>
                     </li>
-                    <li><a>阿里云产品 &nbsp;&nbsp;<span class="glyphicon glyphicon-menu-down" aria-hidden="true"></span></a>
+                    <li><a>상품 및 서비스 &nbsp;&nbsp;<span class="glyphicon glyphicon-menu-down" aria-hidden="true"></span></a>
                         <ul class="daohang3">
                             <li><a href="{{url('product/ecs')}}">弹性计算 &nbsp;&nbsp;<span class="glyphicon glyphicon-menu-right" aria-hidden="true"></a>
                                 <ul class="daohang31">
@@ -62,7 +62,7 @@
                             </li>
                         </ul>
                     </li>
-                    <li><a href="">Ncloud24的阿里云 &nbsp;&nbsp;<span class="glyphicon glyphicon-menu-down" aria-hidden="true"></a>
+                    <li><a href="">Ncloud24 의 AliCloud &nbsp;&nbsp;<span class="glyphicon glyphicon-menu-down" aria-hidden="true"></a>
                         <ul class="daohang4">
                             <li><a href="{{url('server/advisory')}}">咨询服务</a></li>
                             <li><a href="{{url('server/case')}}">使用案例</a></li>
