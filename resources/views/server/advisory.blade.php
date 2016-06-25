@@ -3,8 +3,9 @@
 @section('content')
 <div class="container advisory">
     <div class="advisory-head">
-        <h1 class="text-warning">이제부터 엔클라우드24를 통해 아마존 AWS를 이용하세요!</h1>
-        <p>엔클라우드24(ncloud24, www.ncloud24.com)는 2011년부터 KT ucloud 서비스를 시작한 국내 최초이자 최대 규모의 CSB(Cloud Service Brokerage) 사업자로서 우수한 기술력을 바탕으로 클라우드 컨설팅, 시스템 구축, 매니지드 서비스를 제공하고 있습니다. 또한 아마존웹서비스의 컨설팅 파트너사로 AWS에서 워크로드 및 애플리케이션을 디자인, 설계, 구축, 마이그레이션 및 관리하는 데 도움을 주는 클라우드 서비스를 제공하고 있으며, 모든 분야의 기업 고객이 다양한 클라우드 환경에서 비용절감과 함께 신뢰성이 높고, 안전하며 유연한 클라우드 서비스를 받을 수 있도록 지원하고 있습니다.</p>
+        <h1 class="text-warning">이제부터 엔클라우드24를 통해 아마존 AliCloud를 이용하세요!</h1>
+        <p>이제부터 엔클라우드24를 통해 AliCloud를 이용하세요!
+엔클라우드24(ncloud24, www.ncloud24.com)는 2011년부터 KT ucloud 서비스를 시작한 국내 최초이자 최대 규모의 CSB(Cloud Service Brokerage) 사업자로서 우수한 기술력을 바탕으로 클라우드 컨설팅, 시스템 구축, 매니지드 서비스를 제공하고 있습니다. 또한 AliCloud의 다이아몬드급 파트너사로 AliCloud에서 워크로드 및 애플리케이션을 디자인, 설계, 구축, 마이그레이션 및 관리하는 데 도움을 주는 클라우드 서비스를 제공하고 있으며, 모든 분야의 기업 고객이 다양한 클라우드 환경에서 비용절감과 함께 신뢰성이 높고, 안전하며 유연한 클라우드 서비스를 받을 수 있도록 지원하고 있습니다.</p>
     </div>
     <div class="advisory-body">
         <h2>왜 엔클라우드24인가?</h2>
@@ -15,11 +16,11 @@
             <div class="col-md-9">
                     <h3>1. Consulting Services</h3>
                     <ul>
-                        <li>고객사의 비즈니스 환경에 맞게 AWS 설계를 지원합니다.</li>
-                        <li>AWS 도입 컨설팅</li>
+                        <li>고객사의 비즈니스 환경에 맞게 AliCloud 설계를 지원합니다.</li>
+                        <li>AliCloud 도입 컨설팅</li>
                         <li>고객의 필요를 위한 복잡한 네트워크 아키텍처를 구축</li>
                         <li>공공, 민간 및 하이브리드 클라우드 솔루션 설계 및 배포</li>
-                        <li>타 클라우드 서버 및 물리 서버 AWS 이전 컨설팅</li>
+                        <li>타 클라우드 서버 및 물리 서버 AliCloud 이전 컨설팅</li>
                     </ul>
             </div>
         </div>
@@ -30,8 +31,8 @@
                     <div class="col-md-9">
                             <h3>2. Technical Assistance Services</h3>
                             <ul>
-                                <li>고객사의 비즈니스 환경에 맞게 AWS 구축을 지원합니다.</li>
-                                <li>AWS 이전 지원</li>
+                                <li>고객사의 비즈니스 환경에 맞게 AliCloud 구축을 지원합니다.</li>
+                                <li>AliCloud 이전 지원</li>
                                 <li>높은 부하 서버 개선 사항 (버스트 보정)</li>
                                 <li>서버 이전 혹은 신규 생성시 고객사에서 해결하기 어려운 전문적인 기술 지원</li>
                                 <li>한국어 기술지원 서비스 제공</li>
@@ -89,14 +90,17 @@
         </div>
     </div>
     <div class="advisory-body">
-        <h2>APN 컨설팅 파트너란?</h2>
+        <h2>엔클라우드24를 통해 더욱 많은 중국 클라우드 서비스를 만나실 수 있습니다!     </h2>
         <div class="row advisory-item">
                     <div class="col-md-3">
-                            <img class="img-responsive" src="https://www.ncloud24.com/aws/img/apn.png">
+                            <img class="img-responsive" src="{{asset('image/advisory/1.jpg')}}">
+                    </div><div class="col-md-3">
+                            <img class="img-responsive" src="{{asset('image/advisory/2.jpg')}}">
+                    </div><div class="col-md-3">
+                            <img class="img-responsive" src="{{asset('image/advisory/3.jpg')}}">
                     </div>
-                    <div class="col-md-9">
-                            <p>APN 컨설팅 파트너는 모든 규모의 고객이 AWS에서 워크로드 및 애플리케이션을 디자인, 설계, 구축, 마이그레이션 또는 관리하는 데 도움을 주는 전문 서비스 회사입니다. 컨설팅 파트너에는 SI(Systems Integrator), 전략적 컨설팅 업체, 대행사, MSP(Managed Service Provider), VAR(Value-Added Reseller)이 포함되어 있습니다.</p>
-                            <p>APN 컨설팅 파트너는 다양한 리소스와 교육에 액세스하여 고객이 AWS 클라우드에서 애플리케이션을 배포, 실행, 관리할 때 더 효율적으로 지원할 수 있습니다.</p>
+                    <div class="col-md-3">
+                            <img class="img-responsive" src="{{asset('image/advisory/4.jpg')}}">
                     </div>
         </div>
     </div>
