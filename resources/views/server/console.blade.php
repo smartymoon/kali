@@ -48,7 +48,7 @@
 		</ul>
 	</nav>
 	<div class="row">
-		<div class="col-md-10" style="height:4700px;background-color: #eee; float: right;margin-right:50px">
+		<div class="col-md-10 pages" style="height:4700px;background-color: #eee; float: right;margin-right:50px">
 			<div id="gailan" style="height:470px"><h2>概览</h2>
 			<img src="{{asset('image/advisory/sm1.jpg')}}" alt="" width="950px"></div>
 			<div id="shili" style="height:480px"><h2>实例</h2>
@@ -74,6 +74,10 @@
 		</div>
 	</div>
 	<script>
+    function ccc(that){
+        $('.kz').hide();
+        $(that).next().css({display:'block'});
+    }
 	$(document).ready(function() {
 	  $("a.side").click(function() {
 	    $("html, body").animate({
@@ -84,11 +88,13 @@
 	    });
 	    return false;
 	  });
+
 	});
-	</script>
-</div>
-<script>
+
 	$(document).ready(function(){
+        function get_height(that){
+            return that.offset().top-$(window).scrollTop();
+        }
 	    $(".kz a").click(function(){
 	        $(this).addClass('test')
 	        .parent().siblings().children("a").removeClass("test");
@@ -96,12 +102,20 @@
 	    $('.nav > li > a').click(function(){
 	    	$('.kz a').removeClass("test");
 	    })
+            var arr  = [];
+            $(window).scroll(function(i,q){
+                var count = 0;
+                $('.pages>div').each(function(){
+                    var div_height = get_height($(this));
+                    if(div_height < 500 && div_height > -500){
+                        $('.bs-docs-sidenav > li > a').css('background-color','#fff');
+                        $('.bs-docs-sidenav > li > a').eq(count).css('background-color','#eee');
+                    }
+                    count++;
+                })
+            });
 	});
-</script>
-<script>
-	function ccc(that){
-		$('.kz').hide();
-		$(that).next().css({display:'block'});
-	}
-</script>
+
+	</script>
+</div>
 @endsection
