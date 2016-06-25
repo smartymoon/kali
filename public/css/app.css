@@ -14,14 +14,14 @@
   text-align: center; }
   .home-headers h2 {
     display: block;
-    width: 530px;
+    width: 550px;
     background-color: #fff;
     margin: 20px auto; }
 
 .home-products .col-md-3 {
   border-left: 1px solid #dddddd;
   text-align: center;
-  height: 396px; }
+  height: 296px; }
   .home-products .col-md-3 h3 {
     margin-top: 0; }
   .home-products .col-md-3 p {
@@ -35,7 +35,7 @@
 .home-case-list {
   border-left: 1px solid #dddddd;
   border-right: 1px solid #dddddd;
-  height: 432px;
+  height: 470px;
   width: 20%;
   padding: 16px 0; }
   .home-case-list ul {
@@ -145,6 +145,16 @@ th {
     text-align: center; }
   .ali_function_body h4 {
     font-weight: bold; }
+
+.advisory-head {
+  padding-bottom: 15px;
+  border-bottom: 2px solid #00a2ca; }
+
+.advisory-item {
+  border-bottom: 1px dotted #d5d5d5;
+  padding: 20px 0; }
+  .advisory-item h3 {
+    margin-top: 0; }
 
 /* slider */
 #carousel-example-generic img {

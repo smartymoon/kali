@@ -1,5 +1,5 @@
 <div class="home-headers">
-    <h2>成熟的解决方案帮您快速应用云计算</h2>
+    <h2>초 단위로 빠르게 클라우드 환경 가설하고  배포</h2>
 </div>
 <div class="row home-five">
     <div class="col-md-4">

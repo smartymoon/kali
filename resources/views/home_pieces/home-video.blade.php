@@ -1,5 +1,5 @@
 <div class="home-headers">
-    <h2>全球领先的云计算服务平台</h2>
+    <h2>세계적인 클라우드 서비스 플랫폼</h2>
 </div>
 <div class="row home-video">
     <div class="col-md-6">
