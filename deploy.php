@@ -19,19 +19,18 @@ add('writable_dirs', []);
 server('production', 'erp.tt12t.com')
     ->user('lee')
     ->password(null)
-    ->set('deploy_path', '/var/www/dkali');
+    ->set('deploy_path', '/var/www/dkali')
+    ->pty(true);
 
 
 // Tasks
 
 desc('Restart PHP-FPM service');
-/*
 task('php-fpm:restart', function () {
     // The user must have rights for restart service
     // /etc/sudoers: username ALL=NOPASSWD:/bin/systemctl restart php-fpm.service
     run('sudo systemctl restart php-fpm.service');
 });
-*/
 after('deploy:symlink', 'php-fpm:restart');
 
 // [Optional] if deploy fails automatically unlock.
