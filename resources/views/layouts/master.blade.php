@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>韩国阿里 - @yield('title')</title>
+        <title>韩国阿里云介绍 - @yield('title')</title>
         <link rel="stylesheet" href="{{asset('css/boot.css')}}">
         <link rel="stylesheet" href="{{asset('css/wan.css')}}">
         <link rel="stylesheet" href="{{asset('css/app.css')}}">
